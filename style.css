@@ -111,3 +111,17 @@ p {
 	border-radius: 10px;
 	background-color: rgba(86,93,100,.80);
 }
+
+.input-Text {
+	color: black;
+}
+
+input[type=text] {
+	font-size: 23px;
+	letter-spacing: 1px;
+	color: rgba(210,224,236,1.00);
+	border: none;
+	margin: 0 auto;
+	width: 80%;
+}
+	
